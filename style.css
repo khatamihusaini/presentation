@@ -26,3 +26,9 @@ a{
   display: block;
   color: #3e95cd
 }
+
+.th{
+  position: relative;
+  margin: 0 auto;
+  padding: 0 auto;
+}
